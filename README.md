@@ -26,7 +26,25 @@ It provides tools for managing income, expenses, money lent, interest loans, EMI
 
 ## 📸 Screenshots
 
-Screenshots will be added here after they have been reviewed and sanitized for public distribution.
+### Dashboard
+
+![FinFlow Dashboard](screenshots/dashboard.jpg)
+
+### Expenses
+
+![FinFlow Expenses](screenshots/expenses.jpg)
+
+### Income
+
+![FinFlow Income](screenshots/income.jpg)
+
+### Money Lent
+
+![FinFlow Money Lent](screenshots/money-lent.jpg)
+
+### Savings Goals
+
+![FinFlow Savings Goals](screenshots/savings.jpg)
 
 ## 📥 Download
 
